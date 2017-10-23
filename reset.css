@@ -1,0 +1,170 @@
+/* RESET */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1.1;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;   
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content:''; content:none;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+#pagewrap {
+    margin: 100px;
+}
+
+h1, h2, h3, p {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #DD2828;
+    text-align:center;
+    color:white;
+    padding:1em;
+
+}
+
+header h1 {
+    font-size:4.5em;
+    padding-left:20px;
+    text-transform: uppercase;
+}
+
+header p {
+    font-size:4em;
+    padding-bottom:20px;
+    
+}
+
+#billedsektion{
+    float: left;
+    
+
+    padding:0.4em;
+    margin-right:1em;
+    
+    margin-bottom:1em;
+    width:50%;
+}
+
+#stortbillede{
+    width:100%;
+}
+
+#beskrivelse h2 {
+    font-weight: bold;
+    font-size:1.5em;
+    padding-top:0.9em;
+    font-family:arial sans-serif;
+    border-bottom: 2px dashed black;
+
+}
+
+#beskrivelse p {
+  padding-top:1em;
+}
+
+
+
+
+
+}
+blockquote {
+    font-family: sans-serif;
+    padding-left:0.4em;
+    
+}
+
+#faktaboks {
+    background-color:grey;
+    color: white;
+    padding:0.5em;
+    float:right;
+    width:25%;
+    border-left:15px solid black;
+    border-right:15px solid black;
+
+
+
+}
+#indhold {
+    float:left;
+    width:70%;
+
+
+}
+
+footer {
+    clear:both;
+    left:0px;
+    margin-top:0.2em;
+    background-color:grey;
+    bottom:0px;
+    position:fixed;
+    width:100%;
+}
+
+footer p {
+    padding:0.7em;
+}
+
+
+
+aside p {
+    margin-bottom: 0.5em;
+    line-height:1.3em;
+
+
+}
+
+aside h3 {
+    font-size: 1.25em;
+    line-height:1.5em;
+    padding-top:0.6em;
+
+
+}
+
+a:link {
+    text-decoration: underline;
+color: white;
+transition: all 3s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+    transition: all 3s ease;
+
+}
+
+/*  END RESET */
+
+
+
+
+
+
+
